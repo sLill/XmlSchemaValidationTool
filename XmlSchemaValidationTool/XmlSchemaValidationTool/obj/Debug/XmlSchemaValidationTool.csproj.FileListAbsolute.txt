@@ -1,0 +1,7 @@
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\bin\Debug\XmlSchemaValidationTool.exe.config
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\bin\Debug\XmlSchemaValidationTool.exe
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\bin\Debug\XmlSchemaValidationTool.pdb
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\obj\Debug\XmlSchemaValidationTool.csprojAssemblyReference.cache
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\obj\Debug\XmlSchemaValidationTool.csproj.CoreCompileInputs.cache
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\obj\Debug\XmlSchemaValidationTool.exe
+C:\Users\lills\Desktop\VS Solutions\XmlSchemaValidationTool\XmlSchemaValidationTool\obj\Debug\XmlSchemaValidationTool.pdb
